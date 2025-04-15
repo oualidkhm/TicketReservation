@@ -1,0 +1,7 @@
+lundi the+croissant lait+cake tajine marka+jus les_pates panini_viande_hache
+mardi croissant+the fromage+cafe panini+jus plat_traditionnel les_pates panini_thon
+mercredi croissant+the croissant+cafe panini+jus rfissa panini+jusOrange panini+banane
+jeudi the+fromage lait+cake tacos tajine panini les_pates
+vendredi the+miel cafe+huileOlive coscous+lben tacos les_pates panini_poulet
+samedi the+fromage cafe+miel tajine marqa+lemonade les_pates panini_thon
+dimanche the+miel lait+huile_olive tajine poisson+loubia les_pates poulet+danette
